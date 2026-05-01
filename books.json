@@ -1,0 +1,16 @@
+[
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopia",
+        "pages": 328,
+        "read": true
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "pages": 310,
+        "read": false
+    }
+]
